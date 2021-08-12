@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanush007" target="blank"><img src="https://img.shields.io/twitter/follow/tanush007?logo=twitter&style=for-the-badge" alt="tanush007" /></a> </p>
 
-<img align="right" alt="GIF" src="https://github.com/CodingForTheBetter/CodingForTheBetter/blob/main/122.gif" width="300" height="320" />
+<img align="right" alt="GIF" src="https://github.com/CodingForTheBetter/CodingForTheBetter/blob/main/122.gif" width="400" height="320" />
 
 - 🔭 I’m currently working on [AbridgeWork](coming soon...)
 - 🌱 I’m currently learning **C, C++, JavaScript, HTML, CSS, React Native**
