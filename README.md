@@ -41,19 +41,9 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: My GitHub Profile Stats</summary>
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codingforthebetter&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingforthebetter&show_icons=true&locale=en&layout=compact" alt="codingforthebetter" /></p>
-</details>
-
-<details>
-  <summary>:zap: Github Streak Stats</summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingforthebetter&show_icons=true&locale=en&layout=compact" alt="codingforthebetter" /></p>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codingforthebetter&" alt="codingforthebetter" /></p>
 </details>
