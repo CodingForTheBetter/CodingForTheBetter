@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/tanush007" target="blank"><img src="https://img.shields.io/twitter/follow/tanush007?logo=twitter&style=for-the-badge" alt="tanush007" /></a> </p>
 
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fremakelearning.org%2Fopportunity%2F2020%2F01%2F13%2Fguide-to-python-programming-language-simpliv%2F&psig=AOvVaw2mi9xJjBclExxnK_7USDm3&ust=1628845732486000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCfha6Rq_ICFQAAAAAdAAAAABBK" width="500" height="320" />
+
 - 🔭 I’m currently working on [AbridgeWork](coming soon...)
 
 - 🌱 I’m currently learning **C, C++, JavaScript, HTML, CSS, React Native**
