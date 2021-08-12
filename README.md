@@ -11,9 +11,9 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/CodingForTheBetter/CodingForTheBetter/blob/main/122.gif" width="400" height="320" /> -->
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🔭 I’m currently working on [AbridgeWork](coming soon...)
+- 🔭 I’m currently working on [AbridgeWork](coming soon...), ML CNN Research Internship
 - 🌱 I’m currently learning **C, C++, JavaScript, HTML, CSS, React Native**
-- 👯 I’m looking to collaborate on [coming soon...](coming soon...)
+- 👯 I’m looking for an AI/Machine Learning Internship
 - 🤝 I’m looking for help with [coming soon...](coming soon...)
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 - 📝 I regularly write articles on [coming soon...](coming soon...)
