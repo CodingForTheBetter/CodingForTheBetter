@@ -3,7 +3,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/codingforthebetter/count.svg" />
 </p>
 
 <p align="left"> <a href="https://twitter.com/tanush007" target="blank"><img src="https://img.shields.io/twitter/follow/tanush007?logo=twitter&style=for-the-badge" alt="tanush007" /></a> </p>
