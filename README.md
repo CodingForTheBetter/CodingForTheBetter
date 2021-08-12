@@ -54,7 +54,6 @@
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
-  <br />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingforthebetter&" alt="codingforthebetter" /></p>
+  <summary>:zap: Github Streak Stats</summary>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codingforthebetter&" alt="codingforthebetter" /></p>
 </details>
