@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Tanush</h1>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <h3 align="center">A passionate .....</h3>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 
 <p align="center"> 
   Visitor count<br>
