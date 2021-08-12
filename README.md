@@ -45,5 +45,5 @@
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codingforthebetter&show_icons=true&hide_border=true&theme=dark" />
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingforthebetter&show_icons=true&locale=en&layout=compact&theme=dark" alt="codingforthebetter" /></p>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codingforthebetter&theme=dark" alt="codingforthebetter" /></p>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codingforthebetter&hide_border=true&theme=dark" alt="codingforthebetter" /></p>
 </details>
