@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingforthebetter&show_icons=true&locale=en&layout=compact" alt="codingforthebetter" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingforthebetter&show_icons=true&locale=en&layout=compact" alt="codingforthebetter" /></p>
 </details>
 
 <details>
