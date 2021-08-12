@@ -46,8 +46,4 @@
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codingforthebetter&show_icons=true&hide_border=true" />
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingforthebetter&show_icons=true&locale=en&layout=compact" alt="codingforthebetter" /></p>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codingforthebetter&" alt="codingforthebetter" /></p>
-  <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=codingforthebetter&repo=codingforthebetter.github.io&theme=material-palenight" />
-  </a>
 </details>
