@@ -58,3 +58,8 @@
         <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=codingforthebetter&hide_border=true&theme=dark" alt="codingforthebetter" /></p>
     </details>
 </h3>
+
+### Spotify Playing 🎧
+
+[<img src="https://<spotify-now-playing-steel-psi.vercel.app>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31kuljmkdrw3gkwnf24noxsz6sqe)
+
