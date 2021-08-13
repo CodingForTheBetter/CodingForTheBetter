@@ -59,22 +59,23 @@
     </details>
 </h3>
 
-<br />
-<br />
 <br>
-<br />
-<br />
 <br>
-<br />
-<br />
 <br>
-<br />
-<br />
 <br>
-<br />
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 align="left">👨🏻‍💻 Spotify Playing 🎧</h3>
 
-### Spotify Playing 🎧
-
-[<img align="right" src="https://spotify-now-playing-steel-psi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31kuljmkdrw3gkwnf24noxsz6sqe)
+[<img align="left" src="https://spotify-now-playing-steel-psi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31kuljmkdrw3gkwnf24noxsz6sqe)
 
