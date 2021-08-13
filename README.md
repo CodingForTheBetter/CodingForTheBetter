@@ -23,7 +23,7 @@
 - 💬 Ask me about **anything :)**
 - 📫 How to reach me - **tanushsavadi14@gmail.com or via my socials linked below**
 - 📄 Know about my experiences [coming soon...](coming soon...)
-- ⚡ Fun fact **I love listening to meet new people, attend webinars and sessions to make more connections! I also love music, playing sports and coding!**
+- ⚡ Fun fact **I love to meet new people and attend webinars and sessions to make more connections! I also love music, playing sports and coding!**
 <!-- - 🤝 I’m looking for help with [coming soon...](coming soon...) -->
 ---
 
