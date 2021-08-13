@@ -22,13 +22,13 @@
 - 💬 Ask me about **anything :)**
 - 📫 How to reach me **tanushsavadi14@gmail.com**
 - 📄 Know about my experiences [coming soon...](coming soon...)
-- ⚡ Fun fact **I love listening to music, playing sports and coding!**
+- ⚡ Fun fact **I love listening to meet new people, attend webinars and sessions to make more connections! I also love music, playing sports and coding!**
 
 <h2 align="left">Blog posts:</h2
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me :heart::</h2>
 <p align="left">
 <a href="https://twitter.com/tanush007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanush007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanush-savadi-2161181b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
