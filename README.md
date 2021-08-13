@@ -16,7 +16,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🔭 I’m currently working on [AbridgeWork](coming soon...), ML CNN Research Internship
-- 🌱 I’m currently learning **C, C++, JavaScript, HTML, CSS, React Native**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, React Native**
 - 👯 I’m looking for an AI/Machine Learning Internship
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 - 📝 I regularly write articles on [coming soon...](coming soon...)
@@ -27,10 +27,12 @@
 <!-- - 🤝 I’m looking for help with [coming soon...](coming soon...) -->
 ---
 
+
 <h2 align="left">Blog posts(coming soon!):</h2
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<br>
+    
 ---
     
 <h2 align="left">Connect with me :heart::</h2>
