@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, React Native**
 - 👯 I’m looking for an AI/Machine Learning Internship
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
-- 📝 I regularly write articles on [coming soon...](coming soon...)
+- 📝 I regularly write articles on [Medium](coming soon...)
 - 💬 Ask me about **anything :)**
 - 📫 How to reach me - **tanushsavadi14@gmail.com or via my socials linked below**
 - 📄 Know about my experiences [coming soon...](coming soon...)
