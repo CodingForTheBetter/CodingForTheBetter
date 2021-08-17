@@ -16,7 +16,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🔭 I’m currently working on [AbridgeWork](coming soon...), ML CNN Research Internship
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React Native**
+- 🌱 I’m currently learning **JavaScript, HTML, TypeScript, React Native**
 - 👯 I’m looking for an AI/Machine Learning Internship
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 - 📝 I regularly write articles on [Medium](coming soon...)
