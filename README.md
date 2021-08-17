@@ -95,3 +95,17 @@
 
 [<img align="left" src="https://spotify-now-playing-steel-psi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31kuljmkdrw3gkwnf24noxsz6sqe)
 
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Go         1 hr 7 mins     █████████████▓░░░░░░░░░░░   55.03 % 
+Markdown   24 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Python     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Other      7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+JSON       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+```
+<!--END_SECTION:waka-->
+
+-------
