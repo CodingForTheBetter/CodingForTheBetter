@@ -108,7 +108,7 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-[![Tanush's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodingForTheBetter)](https://github.com/anuraghazra/github-readme-stats)
+[![Tanush's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodingForTheBetter&v=2)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
 
 
